@@ -1,0 +1,11 @@
+.dot {
+    height: 0.35rem;
+    width: 0.35rem;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.mytooltip > .tooltip-inner {
+    max-width: 100%;
+    text-align: left;
+}
