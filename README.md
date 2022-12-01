@@ -1,8 +1,8 @@
 # Pcap File Visualization
 
 ## Description
-A project rushed within 2 days - consist of trash code with bad practices but did the work! AYAYA
-Frontend - React.js
+A project rushed within 2 days - consist of trash code with bad practices but did the work! AYAYA  
+Frontend - React.js  
 Backend - Python + Flask
 
 ## Requirements
